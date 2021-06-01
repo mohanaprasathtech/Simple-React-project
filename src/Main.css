@@ -1,0 +1,23 @@
+.picture{
+    width: 100%;
+}
+.btn{
+    position: absolute;
+    top: 35%;
+    left: 650px;
+   
+    font-weight: 500px;
+    font-size: medium;
+    background: transparent;
+    font-size: 60px;
+    cursor: pointer;
+    text-align: center;
+    border-radius: 20px;
+    padding: 20px;
+}
+.btn:hover{
+    background-color:#6495ED;
+    color: white;
+}
+
+
